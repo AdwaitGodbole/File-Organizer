@@ -1,0 +1,8 @@
+README
+This assumes that the filenames are in the format: PROJECT ID ANIMAL ID TISSUE TIMEPOINT ACCESSION NUMBER STAIN
+Works with timepoints that are in the format: (value) (units) or (units) (value)
+Also works with non numerical timepoints such as Early Dead (E.D.) and Not Applicable (NA)
+Launch the script
+Pick yor files
+Pick how you want to stratify them
+GO!
